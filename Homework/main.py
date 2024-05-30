@@ -16,10 +16,10 @@ from random_generator import generate_tsp_graph
 # Bucuresti[0] -> Timisoara[2] -> Cluj[1] -> Iasi[3] -> Constanta[4] -> Bucuresti[0]
 
 graph = [[0, 450, 530, 410, 225],
-                [450, 0, 320, 380, 600],
-                [530, 320, 0, 500, 550],
-                [410, 380, 500, 0, 370],
-                [225, 600, 550, 370, 0]]
+        [450, 0, 320, 380, 600],
+        [530, 320, 0, 500, 550],
+        [410, 380, 500, 0, 370],
+        [225, 600, 550, 370, 0]]
 
 print(tsp_dfs_wrapper(graph))
 print(tsp_least_cost(graph))
