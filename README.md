@@ -37,6 +37,6 @@ Datele de intrare reprezentand distantele dintre orase sunt introduse in cod ca 
 
 ## Executia Codului
   - Se deschide CMD
-  - se tasteaza in consola: python "C:\Desktop\Homework\main.py", Acesta un exemplu. Nu trebuie neaparat sa fie in Desktop sau in partitia C
+  - se tasteaza in consola: python "C:\Desktop\Homework\main.py", Acesta este un exemplu. Nu trebuie neaparat sa fie in Desktop sau in partitia C
 ## Concluzii
 Proiectul a fost unul interesant care a necesitat implementarea unor algoritmi pentru gasirea unui traseu cu cost minim. Python a fost ales ca limbaj de programare datorita lizibilitatii si usurintei de scriere in comparatie cu limbaje precum C++/Java.
